@@ -19,8 +19,8 @@
 
     // tack input from user
 
-    $uname = $_POST['username'];
-    $pass = $_POST['password'];
+    $uname = $_GET['username'];
+    $pass = $_GET['password'];
 
     //write a query for login
 
