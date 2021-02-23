@@ -1,0 +1,23 @@
+body {
+    background-image: url("Picture/mountains.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+.center {
+    text-align: center;
+    top: 25%;
+    width: 100%;
+    position: absolute;
+    color: black;
+}
+
+.button {
+    border-radius: 25%;
+    width: 70px;
+    height: 36px;
+}
+.button:hover {
+    background-color: orange;
+    box-shadow: 5;
+}
